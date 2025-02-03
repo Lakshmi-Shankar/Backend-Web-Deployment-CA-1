@@ -1,6 +1,4 @@
-const { error } = require("console");
 const express = require("express");
-const { json } = require("stream/consumers");
 const app = express();
 const PORT = 4000;
 
